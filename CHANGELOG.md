@@ -1,3 +1,6 @@
+## 1.0.2
+- Update pubspec dependencies
+
 ## 1.0.1
 - Fix xml innerText for xml ^6.3.0
 - Fix Chinese garbled (thanks to @obzone)
