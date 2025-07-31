@@ -1,6 +1,6 @@
 name: docx_reader
 description: A small Dart package for reading docx files (Microsoft Word).
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/dra11y/docx_reader
 repository: https://github.com/dra11y/docx_reader
 
